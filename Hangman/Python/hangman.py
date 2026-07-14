@@ -6,7 +6,7 @@ def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 # NOTE: when editing use all caps
-words = open("words.txt", "r").read().splitlines()
+words = open("Hangman\words.txt", "r").read().splitlines()
 
 word = tuple(rand.choice(words))
 guess_word = []
