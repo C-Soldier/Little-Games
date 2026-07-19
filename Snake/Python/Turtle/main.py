@@ -63,10 +63,11 @@ def go_left():
     if head.direction != "right":
         head.direction = "left"
 
+# To move head by 20 pixels
 def move():
     if head.direction == "up":
         y = head.ycor()
-        head.sety(y + 20) # by 20 pixels
+        head.sety(y + 20) 
     
     if head.direction == "down":
         y = head.ycor()
