@@ -1,7 +1,7 @@
 # Little-Games
 
 ## Snakes and Ladders
-[Python](https://github.com/C-Soldier/Little-Games/tree/main/Snakes%20and%20Ladders/Python)
+[Python](https://github.com/C-Soldier/Little-Games/tree/main/Snakes%20and%20Ladders/Python)\n
 [C++](https://github.com/C-Soldier/Little-Games/tree/main/Snakes%20and%20Ladders/C%2B%2B)
 
 ## Hangman
